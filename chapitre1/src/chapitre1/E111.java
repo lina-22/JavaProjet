@@ -2,7 +2,7 @@ package chapitre1;
 
 import java.util.Scanner;
 
-public class E1111 {
+public class E111 {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub
