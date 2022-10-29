@@ -11,13 +11,16 @@ public class Exo11_11 {
         int nb = sc.nextInt();
 
         for (int row = 1; row <=nb ; row++) {
-            for (int col = 1; col <=nb-row ; col++) {
-                System.out.print("");
-            }
-            for (int co = 1; co<=2*row-1 ; co++) {
-                System.out.print("*");
+            for (int col = 1; col <=nb ; col++){
+                System.out.print("");}
+            for (int col = 1; col <=nb-row ; col++){
+                System.out.print("*");}
 
-            }
+
+            /*for (int co = 1; co<=2*row-1 ; co++){
+                System.out.print("*");}*/
+
+
             System.out.println();
         }
     }
