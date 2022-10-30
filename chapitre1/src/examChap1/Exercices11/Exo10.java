@@ -1,8 +1,8 @@
-package examChap1;
+package examChap1.Exercices11;
 
 import java.util.Scanner;
 
-public class Exo11_10 {
+public class Exo10 {
     public static void main(String[] args) {
         System.out.println("Donnez le nombre de lignes:");
          Scanner sc = new Scanner(System.in);

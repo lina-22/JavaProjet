@@ -1,8 +1,8 @@
-package examChap1;
+package examChap1.Exercices11;
 
 import java.util.Scanner;
 
-public class Exo11_11 {
+public class Exo11 {
     public static void main(String[] args) {
         System.out.println("Plz enter a number:");
 
@@ -15,6 +15,7 @@ public class Exo11_11 {
                 System.out.print("");}
             for (int col = 1; col <=nb-row ; col++){
                 System.out.print("*");}
+
 
 
             /*for (int co = 1; co<=2*row-1 ; co++){

@@ -1,4 +1,4 @@
-package examChap1;
+package examChap1.Exercices11;
 
 import java.util.Scanner;
 
@@ -113,7 +113,7 @@ public class Extra1 {
         //        end*****************
 
         //        Diamond patern* ************
-        for (int row = 1; row <=nb; row++) {
+        for (int row = 1; row <nb; row++) {
             for (int col = row; col <=nb; col++) {
                 System.out.print(" ");
             }
