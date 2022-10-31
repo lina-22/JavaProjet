@@ -12,12 +12,6 @@ public class Exo8 {
         int nb ;
         int x = Integer.MIN_VALUE;
 
-        for (int i = 0; i <10 ; i++) {
-            nb = sc.nextInt();
-        System.out.println("Plz enter number");
-        }
-        System.out.println();
-            System.out.println("Le maximum no est"+x);
 
     }
 }

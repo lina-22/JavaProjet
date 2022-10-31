@@ -7,13 +7,14 @@ public class Exo7 {
         System.out.println("Plz enter a num:");
         Scanner sc = new Scanner(System.in);
         int nb = sc.nextInt();
-        int x;
+        int stValue = 0;
+        int total = 0;
+        do {
+            total = total + stValue;
+            stValue++;
+        }while (stValue <= nb);
+        System.out.println("total : " + total);
 
-        for (int i = 1; i <=nb ; i++) {
-            int nb2 = nb+i;
-            System.out.println(nb2);
-
-        }
 
     }
 }

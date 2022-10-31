@@ -9,12 +9,12 @@ public class Q15 {
         System.out.println("plz enter a num:");
     Scanner sc = new Scanner(System.in);
     int nb = sc.nextInt();
-        System.out.println(nb);
+        System.out.println("number entered " + nb);
 
         System.out.println("Plz enter a line:");
     Scanner ph = new Scanner(System.in);
     String line = ph.next();
-        System.out.println(line);
+        System.out.println("string entered " + line);
     }
 
 }

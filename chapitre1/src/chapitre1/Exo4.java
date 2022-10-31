@@ -10,6 +10,7 @@ public class Exo4 {
         double taille = sc.nextDouble();
         System.out.println("Quelle est le poids:");
         double poids = sc.nextDouble();
+
         double imc = poids/(taille*taille) ;
         System.out.println("L'imc vaut: "+imc);
         if (imc<16.5)
