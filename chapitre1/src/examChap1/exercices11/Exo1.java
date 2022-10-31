@@ -1,4 +1,4 @@
-package examChap1.Exercices11;
+package examChap1.exercices11;
 
 public class Exo1 {
     public static void main(String[] args) {

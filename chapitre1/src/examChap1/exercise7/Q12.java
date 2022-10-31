@@ -1,8 +1,8 @@
-package examChap1;
+package examChap1.exercise7;
 
 import java.util.Scanner;
 
-public class Exo_7_3Q12 {
+public class Q12 {
     public static void main(String[] args) {
 
 
