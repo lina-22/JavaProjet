@@ -9,6 +9,8 @@ public class E1 {
             System.out.print(t[i]+"  ");
         }
         System.out.println();
+
+
         //Autre solution pour créer le tableau
         char t1[] = new char[10];
 
