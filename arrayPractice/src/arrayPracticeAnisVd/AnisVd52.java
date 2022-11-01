@@ -1,4 +1,4 @@
-package arrayPractice;
+package arrayPracticeAnisVd;
 
 public class AnisVd52 {
     public static void main(String[] args) {
@@ -14,6 +14,8 @@ public class AnisVd52 {
         int len = nb.length;
         int sum = nb[1]+nb[2]+nb[3];
         System.out.println(nb [2]+ " "+ "length is:" + len+ "sum is " +sum);
+
+
 
      }
 }
