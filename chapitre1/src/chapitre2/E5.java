@@ -18,7 +18,7 @@ public class E5 {
         }while (jour<=0 || jour>annee[mois-1]);
 
         int i = 0;
-        while (i<mois-1) {
+         {
             nb = nb+annee[i] ;
             i++;
         }

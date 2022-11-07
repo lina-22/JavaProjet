@@ -8,8 +8,8 @@ public class E118 {
         Scanner sc = new Scanner(System.in);
         int nombre ;
         int max = Integer.MIN_VALUE;
-        int x = 0 ;
         int pos=0;
+        int x = 0 ;
         while (x<10) {
             System.out.println("Donnez un nombre:");
             nombre = sc.nextInt();

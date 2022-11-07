@@ -9,8 +9,8 @@ public class E117 {
         int nombre ;
         System.out.println("Donnez un nombre:");
         nombre = sc.nextInt();
-        int x = 0 ;
         int s = 0;
+        int x = 0 ;
         do {
             s = s+x ;
             x++ ;

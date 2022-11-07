@@ -24,6 +24,11 @@ public class E4 {
             if (v>=val1 && v<=val2)
                 cp++;
         }
+        /*for (int i=0; i < t.length; i++){
+            if (t[i]>=val1 && t[i]<=val2)
+                cp++;
+        }*/
+
         System.out.println("Nombre de valeurs: "+cp);
     }
 }

@@ -19,14 +19,15 @@ public class E3 {
         }
         System.out.println();
 
-//        int min = Integer.MAX_VALUE;
-//        int max = Integer.MIN_VALUE;
-//        for (i=0;i<t.length;i++) {
-//            if (t[i] > max)
-//                max = t[i] ;
-//            if (t[i] < min)
-//                min = t[i] ;
-//        }
-//        System.out.println("Max = "+max+" ,min = "+min);
+        int min = Integer.MAX_VALUE;
+        int max = Integer.MIN_VALUE;
+
+        for (i=0;i<t.length;i++) {
+            if (t[i] > max)
+                max = t[i] ;
+            if (t[i] < min)
+                min = t[i] ;
+        }
+        System.out.println("Max = "+max+" ,min = "+min);
     }
 }

@@ -20,6 +20,8 @@ public class E2 {
             System.out.print(t[j]+"  ");
         }
         System.out.println();
+
+//        3rd part *******************************************
         System.out.println("Tapez la valeur recherchée:");
 
         int val = sc.nextInt();

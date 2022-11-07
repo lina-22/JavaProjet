@@ -113,31 +113,32 @@ public class Extra1 {
         //        end*****************
 
 //                Diamond patern* ************
-        for (int row = 1; row <nb; row++) {
+        for (int row = 0; row <nb; row++) {
             for (int col = row; col <=nb; col++) {
                 System.out.print(" ");
             }
-            for (int col = 1; col <row; col++) {
+            for (int col = 0; col <row; col++) {
                 System.out.print("*");
             }
-            for (int col = 1; col <=row; col++) {
+            for (int col = 0; col <=row; col++) {
                 System.out.print("*");
             }
             System.out.println();
         }
 
-        for (int row = 1; row <=nb; row++) {
-            for (int col = 1; col <=row; col++) {
-                System.out.print(" ");
-            }
-            for (int col = row; col <nb; col++) {
-                System.out.print("*");
-            }
-            for (int col = row; col <=nb; col++) {
-                System.out.print("*");
-            }
-            System.out.println();
-        }
+        //                Diamond patern reverse* ************
+//        for (int row = 1; row <=nb; row++) {
+//            for (int col = 1; col <=row; col++) {
+//                System.out.print(" ");
+//            }
+//            for (int col = row; col <nb; col++) {
+//                System.out.print("*");
+//            }
+//            for (int col = row; col <=nb; col++) {
+//                System.out.print("*");
+//            }
+//            System.out.println();
+//        }
         //        end*****************
     }
 }

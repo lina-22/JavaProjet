@@ -1,5 +1,6 @@
 package chapitre2;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class E6 {
@@ -19,6 +20,7 @@ public class E6 {
 
         int n = 0;
         int p = 9;
+//Arrays.stream(t1).sorted().forEach(data -> System.out.println("sorted" + data));
 
         for (int i=0; i<t1.length; i++) {
             if (t1[i]<0) {

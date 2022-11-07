@@ -18,8 +18,8 @@ public class Exo11 {
 
 
 
-            /*for (int co = 1; co<=2*row-1 ; co++){
-                System.out.print("*");}*/
+//           for (int co = 1; co<=2*row-1 ; co++){
+//                System.out.print("*");}
 
 
             System.out.println();
