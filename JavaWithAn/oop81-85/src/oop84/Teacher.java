@@ -1,0 +1,17 @@
+package oop84;
+
+public class Teacher {
+
+    String name;
+    int phone;
+
+    Teacher(String n, int p){
+        name = n;
+        phone = p;
+    }
+
+    public void displayinformation(){
+        System.out.println("name : " + name);
+        System.out.println("phone : " + phone);
+    }
+}
