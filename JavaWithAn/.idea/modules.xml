@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaWithAn.iml" filepath="$PROJECT_DIR$/.idea/JavaWithAn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayPractice/arrayPractice.iml" filepath="$PROJECT_DIR$/arrayPractice/arrayPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapitre3/chapitre3.iml" filepath="$PROJECT_DIR$/chapitre3/chapitre3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop81-85/oop81-85.iml" filepath="$PROJECT_DIR$/oop81-85/oop81-85.iml" />
+    </modules>
+  </component>
+</project>
