@@ -1,4 +1,4 @@
-package oop84;
+package oop85.oop84;
 
 public class Test {
     public static void main(String[] args) {

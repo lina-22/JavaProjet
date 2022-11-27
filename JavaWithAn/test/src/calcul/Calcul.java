@@ -1,2 +1,4 @@
-package calcul;public class Calcul {
+package calcul;
+
+public class Calcul {
 }

@@ -1,7 +1,7 @@
-package calcul;
+package staticBlock94;
 
 public class Test {
     public static void main(String[] args) {
-        System.out.println("hello");
+        StaticBlook.display();
     }
 }
