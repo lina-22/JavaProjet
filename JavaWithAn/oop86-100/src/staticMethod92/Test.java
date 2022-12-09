@@ -6,6 +6,7 @@ public class Test {
         Demo ob1 = new Demo();
         ob1.display1();
 
+
         Demo.display2();
     }
 }
