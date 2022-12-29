@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaWithLina.iml" filepath="$PROJECT_DIR$/.idea/JavaWithLina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lamdaExpression/lamdaExpression.iml" filepath="$PROJECT_DIR$/lamdaExpression/lamdaExpression.iml" />
     </modules>
   </component>
 </project>

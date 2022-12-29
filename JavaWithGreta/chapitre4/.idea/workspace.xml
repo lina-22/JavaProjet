@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34ef84cb-a4bb-4f13-b4bb-5ff1147c8e9d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../JavaWithAn/test/src/calcul/Calcul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaWithAn/test/src/calcul/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaWithLina/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaWithLina/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaWithLina/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaWithLina/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaWithLina/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaWithLina/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaAuth/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaAuth/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaAuth/src/main/java/com/example/projectA/ProjectAApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaAuth/src/main/java/com/example/projectA/ProjectAApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaAuth/src/main/java/com/example/projectA/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaAuth/src/main/java/com/example/projectA/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaAuth/src/main/java/com/example/projectA/model/UserModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaAuth/src/main/java/com/example/projectA/model/UserModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaAuth/src/main/java/com/example/projectA/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaAuth/src/main/java/com/example/projectA/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaAuth/src/main/java/com/example/projectA/request/UserModelRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaAuth/src/main/java/com/example/projectA/request/UserModelRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapitre1/javaGretaClasss.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapitre1/src/chapitre4/c/CPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapitre1/src/chapitre4/c/MainCPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapitre1/src/chapitre4/chifoumi/Chifoumi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapitre1/src/chapitre4/date/CDate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapitre1/src/chapitre4/date/MainCDate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapitre1/src/chapitre4/formes/MainRectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapitre1/src/chapitre4/formes/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapitre1/src/chapitre4/pont/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapitre1/src/chapitre4/pont/TestPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectOne/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectOne/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectOne/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectOne/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectOne/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectOne/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectOne/src/main/java/com/example/javaProject/JavaProjectApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectOne/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectOne/src/test/java/com/example/javaProject/JavaProjectApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectTwo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectTwo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectTwo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectTwo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectTwo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectTwo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectTwo/src/main/java/com/example/projectA/ProjectAApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectTwo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectTwo/src/test/java/com/example/projectA/ProjectAApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arrayPractice/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arrayPractice/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arrayPractice/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arrayPractice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arrayPractice/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arrayPractice/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arrayPractice/arrayPractice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arrayPractice/out/production/arrayPractice/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arrayPractice/out/production/arrayPractice/arrayPracticeAnisVd/AnisVd52.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arrayPractice/out/production/arrayPractice/arrayPracticeAnisVd/AnisVd53.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arrayPractice/out/production/arrayPractice/arrayPracticeAnisVd/AnisVd54.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arrayPractice/out/production/arrayPractice/arrayPracticeAnisVd/Vd55_forEach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arrayPractice/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arrayPractice/src/arrayPracticeAnisVd/AnisVd52.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arrayPractice/src/arrayPracticeAnisVd/AnisVd53.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arrayPractice/src/arrayPracticeAnisVd/AnisVd54.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arrayPractice/src/arrayPracticeAnisVd/Vd55_forEach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/javaGretaClasss.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/chapitre1/E110.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/chapitre1/E111.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/chapitre1/E113.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/chapitre1/E114.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/chapitre1/E115.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/chapitre1/E116.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/chapitre1/E117.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/chapitre1/E118.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/chapitre1/E119.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/chapitre1/Exo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/chapitre1/Exo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/chapitre1/Exo3_bis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/chapitre1/Exo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/chapitre1/Switch1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/chapitre1/Switch2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/chapitre2/E1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/chapitre2/E2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/chapitre2/E3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/chapitre2/E4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/chapitre2/E5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/chapitre2/E5bis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/chapitre2/E6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/chapitre2/E6bis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/chapitre2/Tableau1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/chapitre2/Tableau2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/Exercices11/Exo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/Exercices11/Exo10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/Exercices11/Exo11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/Exercices11/Exo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/Exercices11/Exo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/Exercices11/Exo3_Extra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/Exercices11/Exo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/Exercices11/Exo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/Exercices11/Exo6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/Exercices11/Exo7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/Exercices11/Exo7_Extra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/Exercices11/Exo8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/Exercices11/Extra1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/ExtraTry5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/exercise11Extra/Exo11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/exercise11Extra/Exo11ExtraTry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/exercise11Extra/Exo8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/exercise7/Q12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/exercise7/Q13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/exercise7/Q14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/exercise7/Q15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/exercise9/Exo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/exercise9/Exo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/questions/PracticeDo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/questions/PracticeWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap1/questions/Q5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap2/exemplePractice/No1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap2/exercies4/Exo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap2/exercies4/Exo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap2/exercies4/Exo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap2/exercies4/Exo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap2/nextTry/Ex2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap2/nextTry/Exo1T.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap2/nextTry/Exo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap2/nextTry/Exo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/out/production/javaGretaClasss/examChap2/questions/Q1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/chapitre1/E110.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/chapitre1/E111.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/chapitre1/E113.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/chapitre1/E114.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/chapitre1/E115.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/chapitre1/E116.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/chapitre1/E117.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/chapitre1/E118.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/chapitre1/E119.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/chapitre1/Exo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/chapitre1/Exo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/chapitre1/Exo3_bis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/chapitre1/Exo4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/chapitre1/Switch1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/chapitre1/Switch2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/chapitre2/E1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/chapitre2/E2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/chapitre2/E3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/chapitre2/E4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/chapitre2/E5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/chapitre2/E5bis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/chapitre2/E6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/chapitre2/E6bis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/chapitre2/Tableau1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/chapitre2/Tableau2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/ExtraTry5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/exercices11/Exo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/exercices11/Exo10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/exercices11/Exo11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/exercices11/Exo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/exercices11/Exo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/exercices11/Exo3_Extra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/exercices11/Exo4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/exercices11/Exo5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/exercices11/Exo6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/exercices11/Exo7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/exercices11/Exo7_Extra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/exercices11/Exo8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/exercices11/Extra1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/exercise11Extra/Exo11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/exercise11Extra/Exo11ExtraTry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/exercise11Extra/Exo8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/exercise7/Q12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/exercise7/Q13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/exercise7/Q14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/exercise7/Q15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/exercise9/Exo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/exercise9/Exo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/questions/PracticeDo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/questions/PracticeWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap1/questions/Q5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap2/exemplePractice/No1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap2/exercies4/Exo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap2/exercies4/Exo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap2/exercies4/Exo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap2/exercies4/Exo5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap2/nextTry/Ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap2/nextTry/Exo1T.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap2/nextTry/Exo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap2/nextTry/Exo4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapitre1/src/examChap2/questions/Q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaExo/src/arryPrc/javaExo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../linaTest/src/linaTest/Lina1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../linaTest/src/linaTest/Lina2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../linaTest/src/linaTest/Lina3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../linaTest/src/linaTest/Lina4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../linaTest/src/linaTest/Lina5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testPrj/testPrj.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2HzGKG8giSdJX4PhfjiFT4n7mpQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Workload/JavaProjet/JavaWithGreta",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34ef84cb-a4bb-4f13-b4bb-5ff1147c8e9d" name="Changes" comment="" />
+      <created>1669280432508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669280432508</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapitre4/chifoumi/Chifoumi.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

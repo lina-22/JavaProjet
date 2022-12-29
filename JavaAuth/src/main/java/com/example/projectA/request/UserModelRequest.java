@@ -1,2 +1,4 @@
-package com.example.projectA.request;public class UserModelRequest {
+package com.example.projectA.request;
+
+public class UserModelRequest {
 }

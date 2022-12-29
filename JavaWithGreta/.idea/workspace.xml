@@ -2,14 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06cf7115-cefe-47e1-b78f-24cc9f6ceefc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../JavaWithAn/oop81-85/src/oop/OOP81.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWithAn/oop81-85/src/oop/Test81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWithLina/lamdaExpression/lamdaExpression.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWithLina/lamdaExpression/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWithLina/lamdaExpression/src/lamdaExpression/LamdaEx1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaAuth/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAuth/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaAuth/src/main/java/com/example/projectA/ProjectAApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAuth/src/main/java/com/example/projectA/ProjectAApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaAuth/src/main/java/com/example/projectA/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAuth/src/main/java/com/example/projectA/controller/AuthController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaAuth/src/main/java/com/example/projectA/model/UserModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAuth/src/main/java/com/example/projectA/model/UserModel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaAuth/src/main/java/com/example/projectA/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAuth/src/main/java/com/example/projectA/repository/UserRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaAuth/src/main/java/com/example/projectA/request/UserModelRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAuth/src/main/java/com/example/projectA/request/UserModelRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGreta22/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaGreta22/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGreta22/src/chapitre4/date/CDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaGreta22/src/chapitre4/date/CDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGreta22/src/chapitre4/point/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaGreta22/src/chapitre4/point/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGreta22/src/chapitre4/point/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaGreta22/src/chapitre4/point/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapitre1/javaGretaClasss.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapitre1/src/chapitre4/c/CPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapitre1/src/chapitre4/c/MainCPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapitre1/src/chapitre4/chifoumi/Chifoumi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapitre1/src/chapitre4/date/CDate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapitre1/src/chapitre4/date/MainCDate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapitre1/src/chapitre4/formes/MainRectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapitre1/src/chapitre4/formes/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapitre1/src/chapitre4/pont/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapitre1/src/chapitre4/pont/TestPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWithLina/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaWithLina/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWithLina/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaWithLina/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWithLina/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaWithLina/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjectOne/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjectOne/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjectOne/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
@@ -191,8 +212,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Hb1fKHBHCtpxxVD6og3OEqIpAe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -204,9 +235,42 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Workload/JavaProjet/JavaWithGreta"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Workload/JavaProjet/JavaGreta22",
+    "settings.editor.selected.configurable": "project.propCompiler"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="chapitre4.exo1" />
+      <recent name="chapitre4.exo1.exo2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -217,5 +281,16 @@
       <updated>1668539070984</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

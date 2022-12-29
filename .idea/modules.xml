@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaWithLina/JavaBookBack/JavaBack.iml" filepath="$PROJECT_DIR$/JavaWithLina/JavaBookBack/JavaBack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JvaBD-Online/JavaBack0/JavaBack0.iml" filepath="$PROJECT_DIR$/JvaBD-Online/JavaBack0/JavaBack0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaProjet.iml" filepath="$PROJECT_DIR$/.idea/JavaProjet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAuth/ProjectA.iml" filepath="$PROJECT_DIR$/JavaAuth/ProjectA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JvaBD-Online/JavaBackEnd1/cloth-shop/cloth-shop.iml" filepath="$PROJECT_DIR$/JvaBD-Online/JavaBackEnd1/cloth-shop/cloth-shop.iml" />
+    </modules>
+  </component>
+</project>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaWithGreta.iml" filepath="$PROJECT_DIR$/JavaWithGreta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaWithGreta.iml" filepath="$PROJECT_DIR$/javaWithGreta.iml" />
     </modules>
   </component>
 </project>

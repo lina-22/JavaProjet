@@ -1,2 +1,6 @@
-package com.example.projectA.repository;public class UserRepository {
+package com.example.projectA.repository;
+
+public class UserRepository {
+
+
 }

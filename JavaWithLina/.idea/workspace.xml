@@ -2,15 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f50f9bc-1fe6-4076-b637-987e741b59d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../JavaWithAn/test/src/calcul/Calcul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWithAn/test/src/calcul/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamdaExpression/lamdaExpression.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamdaExpression/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamdaExpression/src/lamdaExpression/LamdaEx1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaAuth/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAuth/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaAuth/src/main/java/com/example/projectA/ProjectAApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAuth/src/main/java/com/example/projectA/ProjectAApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaAuth/src/main/java/com/example/projectA/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAuth/src/main/java/com/example/projectA/controller/AuthController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaAuth/src/main/java/com/example/projectA/model/UserModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAuth/src/main/java/com/example/projectA/model/UserModel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaAuth/src/main/java/com/example/projectA/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAuth/src/main/java/com/example/projectA/repository/UserRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaAuth/src/main/java/com/example/projectA/request/UserModelRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAuth/src/main/java/com/example/projectA/request/UserModelRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGreta22/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaGreta22/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGreta22/src/chapitre4/date/CDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaGreta22/src/chapitre4/date/CDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGreta22/src/chapitre4/point/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaGreta22/src/chapitre4/point/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGreta22/src/chapitre4/point/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaGreta22/src/chapitre4/point/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaWithGreta/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaWithGreta/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWithGreta/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaWithGreta/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaWithGreta/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaWithGreta/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaWithGreta/chapitre1/javaGretaClasss.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaWithGreta/chapitre1/src/chapitre4/c/CPoint.java" beforeDir="false" />
@@ -22,6 +28,9 @@
       <change beforePath="$PROJECT_DIR$/../JavaWithGreta/chapitre1/src/chapitre4/formes/Rectangle.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaWithGreta/chapitre1/src/chapitre4/pont/Point.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaWithGreta/chapitre1/src/chapitre4/pont/TestPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaBookBack/src/main/java/com/javaProject/javaBack/controller/AuthController.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjectOne/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjectOne/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
@@ -204,6 +213,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -220,9 +236,40 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Workload/JavaProjet/JavaWithLina"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "D:/Workload/JavaProjet/JavaWithGreta",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="LamdaEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lamdaExpression.LamdaEx1" />
+      <module name="lamdaExpression" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lamdaExpression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LamdaEx1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
